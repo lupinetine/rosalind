@@ -43,5 +43,5 @@ def gc(file):
 	return val
 
 
-print gc('rosalind_gc.txt')
+#print gc('rosalind_gc.txt')
 	
